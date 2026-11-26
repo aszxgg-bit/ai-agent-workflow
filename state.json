@@ -1,0 +1,8 @@
+{
+  "current_stage": "wait",
+  "next_agent": "coordinator",
+  "finished_agents": [],
+  "task_status": "pending",
+  "retry_count": 0,
+  "max_retry": 3
+}
